@@ -1,8 +1,3 @@
-# Student Name in Canvas: Jake Buto
-# Penn ID: 25714507
-# Did you do this homework on your own (yes / no): yes
-# Resources used outside course materials: n/a
-
 # import statements
 from random import shuffle, randrange
 
