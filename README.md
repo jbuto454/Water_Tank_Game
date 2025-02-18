@@ -11,10 +11,10 @@ of card (one pile for water and one pile for power). Each water card has a value
 the amount of water that it contributes to the tank. When a water card is played, that player
 adds the specified amount of water to their tank. Power cards allow players to perform special
 actions:
-● SOH (Steal Opponent’s Half): Take half the water in your opponent’s tank and add it to
+* SOH (Steal Opponent’s Half): Take half the water in your opponent’s tank and add it to
 your own
-● DOT (Drain Opponent’s Tank): Empty your opponent’s tank completely
-● DMT (Double My Tank): Double the current value of your own tank
+* DOT (Drain Opponent’s Tank): Empty your opponent’s tank completely
+* DMT (Double My Tank): Double the current value of your own tank
 
 Players take turns either using a card or discarding a card. If a player discards a card, it goes to
 the bottom (last index) of its respective pile. Once the player has used or discarded a card, they
